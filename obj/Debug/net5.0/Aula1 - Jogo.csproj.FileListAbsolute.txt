@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.deps.json
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.runtimeconfig.json
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.runtimeconfig.dev.json
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.dll
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\bin\Debug\net5.0\Aula1 - Jogo.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.AssemblyInfo.cs
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.dll
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\refint\Aula1 - Jogo.dll
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\Aula1 - Jogo.genruntimeconfig.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpBasico\Aula1 - Jogo\obj\Debug\net5.0\ref\Aula1 - Jogo.dll
