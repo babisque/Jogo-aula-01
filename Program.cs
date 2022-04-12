@@ -25,6 +25,7 @@ namespace Aula1___Jogo
                     break;
                 }
 
+                Console.Clear();
                 Console.WriteLine("Digite outra tentativa: ");
             }
 
